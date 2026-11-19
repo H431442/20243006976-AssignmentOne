@@ -6,4 +6,8 @@
     <string name="events">Events</string>
     <string name="clubs">Clubs</string>
     <string name="support">Support</string>
+    <string name="detail_icon_description">Section icon</string>
+    <string name="detail_placeholder_title">This is a title</string>
+    <string name="detail_placeholder_content">This is content</string>
+    <string name="extra_section_index">com.example.assignmentone.SECTION_INDEX</string>
 </resources>
