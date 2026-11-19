@@ -10,4 +10,5 @@
     <string name="detail_placeholder_title">This is a title</string>
     <string name="detail_placeholder_content">This is content</string>
     <string name="extra_section_index">com.example.assignmentone.SECTION_INDEX</string>
+    <string name="clicked_message">%1$s clicked</string>
 </resources>
